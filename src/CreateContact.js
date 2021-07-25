@@ -8,8 +8,7 @@ class CreateContact extends Component {
       <div>
         <Link
           className='close-create-contact'
-          to='/'
-        >
+          to='/'>
           Close
         </Link>
         <form action="" className='create-contact-form'>
